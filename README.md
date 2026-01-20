@@ -1,3 +1,16 @@
-# HTML-and-CSS-Projects
+# HTML and CSS Projects
 
-This repository contain HTML and CSS projects
+This is a display of sample websites that I made using HTML and CSS
+
+# Projects
+
+- Space Station Site
+- Movie Theatre Site
+
+# Space Station Site
+
+This page is an example home page for a Space travel company. It is styled using CSS and contains a navbar, image containers, and a form.
+
+# Movie Theatre Site
+
+This page is an example home page for a Movie theater that is styled using Boostrap 4. It contains many Boostrap components including but not limited to a navbar, jumbotron, form, cards, and dropdowns.
